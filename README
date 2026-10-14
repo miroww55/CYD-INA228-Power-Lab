@@ -31,14 +31,6 @@ Kompletny, profesjonalny projekt laboratoryjnego monitora parametrów zasilania 
 * **Wbudowany Web Server (Wi-Fi 2.4 GHz)**:
   * Kompletny interfejs HTML/CSS/JS zapisany w pamięci Flash mikrokontrolera (nie wymaga karty SD ani dodatkowych plików).
   * Endpoint REST API /api/data zwracający aktualne pomiary w formacie JSON.
-* **Parametryczna Obudowa 3D w OpenSCAD (v2.2)**:
-  * Pochylony panel czołowy (skos 60 mm pod kątem ~48.2°) zapewniający doskonałą widoczność na biurku warsztatowym.
-  * Otwór na ekran 59×44 mm przesunięty o 18 mm od prawej krawędzi (13 mm od lewej).
-  * Przednia półka ze złączem bananowym / śrubowym pod ekranem (z centralnym podejściem 11 mm).
-  * Wycięcie pod boczny port zasilania USB.
-  * Zaokrąglone krawędzie zewnętrzne i narożniki (fillets) dla estetycznego wyglądu i wygody druku FDM.
-
----
 
 ## 🛠️ Specyfikacja Sprzętowa
 
